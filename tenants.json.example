@@ -1,0 +1,10 @@
+{
+  "empresa_alpha": {
+    "sheet_id": "1AbCdeFGhIJkLmnoPQRST_uvWXyz",
+    "api_key": "sk-empresa-alpha-xxxxxxxxxxxx"
+  },
+  "empresa_beta": {
+    "sheet_id": "1ZyXwVuTsRqPoNmLkJiHgFeDcBa",
+    "api_key": "sk-empresa-beta-xxxxxxxxxxxx"
+  }
+}
