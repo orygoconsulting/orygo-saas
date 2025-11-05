@@ -1,14 +1,4 @@
-{
-  "empresa_alpha": {
-    "sheet_id": "1AbCdeFGhIJkLmnoPQRST_uvWXYZ",
-    "api_key": "sk-empresa-alpha-xxxxxxxxxxxxxx"
-  },
-  "empresa_beta": {
-    "sheet_id": "1ZyXwVuTsRqPoNmLkJiHgFeDcBa",
-    "api_key": "sk-empresa-beta-xxxxxxxxxxxxxx"
-  },
-  "orygo": {
-    "sheet_id": "1AbCdEfGhIjKlMnOpQrStUvWxYz",
-    "api_key": "sk-4a8e7fd9a8c44113be31f0f7c39f1c90"
-  }
+"orygo": {
+  "sheet_id": "1AbCdEfGhIjKlMnOpQrStUvWxYz",
+  "api_key": "sk-4a8e7fd9a8c44113be31f0f7c39f1c90"
 }
